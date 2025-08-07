@@ -12,6 +12,6 @@ int main()
     printf("  (o^.^)\n");
     printf(" z(_(\")(\")   Pika Pika!\n");
     printf("\n");
-    printf("Happy %dth Birthday, %s! ???\n", age, name);
+    printf("Happy %dth Birthday, %s! \n", age, name);
     return 0;
 }
