@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main()
+{
+    int age;
+    char name[50];
+    printf("Enter your name(Ofc real name -,-) : ");
+    scanf("%s",&name);
+    printf("Enter your age (REAL AGE!!!): ");
+    scanf("%d",&age);
+    printf("\n");
+    printf("  (\\__/)\n");
+    printf("  (o^.^)\n");
+    printf(" z(_(\")(\")   Pika Pika!\n");
+    printf("\n");
+    printf("Happy %dth Birthday, %s! ???\n", age, name);
+    return 0;
+}
